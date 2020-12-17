@@ -1,0 +1,34 @@
+body{
+    font-family: helvetica;
+}
+.header{
+    font-size: 15px;
+    padding: 50px;
+    background-color: slategray;
+    text-align: center;
+    color: white;
+}
+nav li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+nav{
+    background-color: #035568;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+main{
+    padding: 20px;
+    overflow: auto;
+}
+header{
+    display: inline;
+}

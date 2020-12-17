@@ -1,0 +1,50 @@
+.header{
+    font-size: 15px;
+    padding: 50px;
+    background-color: slategray;
+    text-align: center;
+    color: white;
+}
+
+main img{
+    width: 300px;
+}
+
+nav li{
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+nav{
+    background-color:#035568;
+    padding: 5px;
+    position: center;
+    top: 0;
+}
+
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    font-family: helvetica;
+    background-color: whitesmoke;
+    
+}
+
+main{
+    padding-left: 15px;
+    color: black;
+}
+
+.list{
+    padding-left: 15px;
+}
+
+div a{
+    color: rgb;
+}

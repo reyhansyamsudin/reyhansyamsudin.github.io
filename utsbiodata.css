@@ -1,0 +1,43 @@
+.header{
+    font-size: 15px;
+    padding: 50px;
+    background-color: slategray;
+    text-align: center;
+    color: white;
+}
+
+nav li{
+    display: inline;    
+    list-style-type: none;
+    margin-right: 20px;
+}
+nav{
+    background-color: #035568;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+}
+nav a{
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    font-family: helvetica;
+    background-color: whitesmoke;
+    
+}
+
+div a{
+    color: rgb;
+}
+.biodata{
+    order: 3;
+    padding: 40px;
+    display: contents;
+}
+.biodata img{
+    width: 250px;
+}
